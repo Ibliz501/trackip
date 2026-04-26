@@ -27,8 +27,11 @@ Dibuat dengan Python dan dirancang agar ringan, mudah digunakan, dan tetap terli
 🛠️ Instalasi
 
 pkg update && pkg upgrade
+
 pkg install python git
+
 git clone https://github.com/Ibliz501/trackip
+
 cd trackip
 
 ---
@@ -54,11 +57,11 @@ Segala penyalahgunaan bukan tanggung jawab developer.
 
 👤 Author
 
-- 👨‍💻 Ibliz501
+- 👨‍💻 AnsXploit
 - 🌐 GitHub: https://github.com/Ibliz501
 
 ---
 
 <p align="center">
-  Stay KILLER SECTEAM| CYBER SCURTY
+  KILLER SECTEAM| CYBER SCURTY
 </p>
