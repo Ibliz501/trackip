@@ -28,11 +28,15 @@ Dibuat dengan Python dan dirancang agar ringan, mudah digunakan, dan tetap terli
 
 pkg update && pkg upgrade
 
-pkg install python git
+pkg install python
+
+pkg install git 
 
 git clone https://github.com/Ibliz501/trackip
 
 cd trackip
+
+
 
 ---
 
@@ -62,6 +66,4 @@ Segala penyalahgunaan bukan tanggung jawab developer.
 
 ---
 
-<p align="center">
-  KILLER SECTEAM| CYBER SCURTY
-</p>
+KILLER SECTEAM | CYBER SCURTY
